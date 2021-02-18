@@ -1,0 +1,16 @@
+{
+  "homepage": "http://www.sparkleshare.org/",
+  "description": " Share and collaborate by syncing with any Git repository instantly. Linux, macOS, and Windows.",
+  "license": "GPL-3.0-only",
+  "version": "3.38",
+  "url": "https://bitbucket.org/hbons/sparkleshare/downloads/sparkleshare-windows-1.4.msi",
+  "hash": "f0b69189979a08e8453e30d5374dbe0a6fdc6e2166ee1059a6b19ce1e6ecf69a",
+  "bin": "SparkleShare.exe",
+  "extract_dir": "PFiles/SparkleShare",
+  "shortcuts": [
+    [
+      "SparkleShare.exe",
+      "SparkleShare"
+    ]
+  ]
+}
