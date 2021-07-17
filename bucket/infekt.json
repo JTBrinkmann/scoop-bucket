@@ -1,0 +1,33 @@
+{
+  "homepage": "https://github.com/syndicodefront/infekt",
+  "description": "A text viewer application that has been carefully designed around its main task: viewing and presenting NFO files.",
+  "license": "GPL-2.0-only",
+  "version": "1.0.1",
+  "architecture": {
+    "64bit": {
+      "url": "https://syndicode.org/infekt/downloads/v1.0.1/iNFekt-v1.0.1-64bit-Portable.rar",
+      "hash": "51d6f2188801f92404ddec85c49df8ce729b62e3720bf9aac32d6874124e919a",
+      "extract_dir": "iNFekt-64bit-Portable",
+      "bin": "infekt-win64.exe",
+      "shortcuts": [
+        [
+          "infekt-win64.exe",
+          "iNFekt"
+        ]
+      ]
+    },
+    "32bit": {
+      "url": "https://syndicode.org/infekt/downloads/v1.0.1/iNFekt-v1.0.1-32bit-Portable.rar",
+      "hash": "8e3392af1ffc67ddf4ec3dbffb1c28ee5da37c858d1b4076e510c6b8408b3baa",
+      "extract_dir": "iNFekt-32bit-Portable",
+      "bin": "infekt-win32.exe",
+      "shortcuts": [
+        [
+          "infekt-win32.exe",
+          "iNFekt"
+        ]
+      ]
+    }
+  },
+  "checkver": "github"
+}
