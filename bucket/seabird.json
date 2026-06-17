@@ -1,0 +1,20 @@
+{
+  "homepage": "https://getseabird.github.io/",
+  "description": "Seabird is the native desktop app that simplifies working with Kubernetes.",
+  "license": " MPL-2.0",
+  "version": "0.5.1",
+  "extract_dir": "APPDIR",
+  "architecture": {
+    "64bit": {
+      "url": "https://github.com/getseabird/seabird/releases/download/v0.5.1/seabird_windows_amd64.msi",
+      "hash": "815655efa71f3143d96c5c11e72bb2bf8f8db8dfded1d1dd40baf7366f1a0c34",
+    }
+  },
+  "checkver": "github",
+  "shortcuts": [
+    [
+      "seabird.exe",
+      "Seabird"
+    ]
+  ]
+}
