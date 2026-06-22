@@ -5,6 +5,7 @@
   "license": "GPL",
   "url": "https://github.com/feschber/lan-mouse/releases/download/v0.11.0/lan-mouse-windows-x86_64.zip",
   "hash": "f94f4e9bc6e64c5f97f497e6491f3cf478c80f2b2a3e13d88ea18cea581c06a0",
+  "bin": "lan-mouse.exe",
   "shortcuts": [
     [
       "lan-mouse.exe",
